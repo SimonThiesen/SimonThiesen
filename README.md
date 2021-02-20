@@ -5,7 +5,7 @@ I'm Simon, a BI enthusiast and Python/R developer. I am passionate about technol
 </p>
 
 <h4 align="center">
-:triangular_flag_on_post: Data Scientist at <a href="https://www.bunker-holding.com/">@Bunker Holding</a> | 🌱 Currently building <a href="https://github.com/SimonThiesen/Best-Practices-PBI">Power BI Best Practices</a> | 💬 Let's connect <a href="www.linkedin.com/in/simon-thiesen">@Simon Thiesen</a>
+:triangular_flag_on_post: Data Scientist at <a href="https://www.bunker-holding.com/">@Bunker Holding</a> | 🌱 Currently building <a href="https://github.com/SimonThiesen/Best-Practices-PBI">Power BI Best Practices</a> | 💬 Let's connect <a href="https://www.linkedin.com/in/simon-thiesen/">@Simon Thiesen</a>
 </h4>
 
 <br/>
