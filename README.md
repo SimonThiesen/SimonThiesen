@@ -14,5 +14,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://user-images.githubusercontent.com/69463973/108590672-1d930e80-7365-11eb-8a17-dd89b2cce0d7.png" alt="stacks"/>
+<img src="https://user-images.githubusercontent.com/69463973/108590783-a6aa4580-7365-11eb-969f-31dc3da918b3.png" alt="stacks"/>
 </h3>
