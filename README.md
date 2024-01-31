@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Simon, a BI enthusiast and Python/R developer. I am passionate about technologies and love to learn new things. :computer:
+I'm Simon, a BI enthusiast and Python/SQL developer. I am passionate about technologies and love to learn new things. :computer:
 </p>
 
 <h4 align="center">
